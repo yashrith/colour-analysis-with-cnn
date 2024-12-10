@@ -38,8 +38,3 @@ The model uses **dlib's CNN face detector** to extract face regions and a fine-t
 built using **Streamlit**, providing an interactive web-based interface.
 
 ---
-
-### **Why ResNet-18?**
-
-* **ResNet-18** is chosen due to its lightweight architecture and robust performance for image classification tasks.
-* The main goal of the project is to analyze how accurately ResNet-18 can predict skin tones when fine-tuned on a specific dataset.
