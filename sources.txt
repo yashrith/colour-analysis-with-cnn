@@ -1,0 +1,3 @@
+sources:
+https://github.com/justadudewhohacks/face-recognition.js-models/tree/master
+https://github.com/Malak-Alaabiad/Skin_Tone_Classification

@@ -1,0 +1,10 @@
+streamlit
+torch
+torch.nn
+torchvision
+torchvision.models
+PIL
+cv2 
+dlib
+os
+pickle
